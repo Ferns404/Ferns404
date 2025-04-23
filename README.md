@@ -1,5 +1,5 @@
 <!-- Top wave -->
-<img src="https://github.com/rafikshah/rafikshah/blob/main/wave.svg" alt="wave" style="width: 100%;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 <h1 align="center">Hi 👋, I'm Florelle Fernandes</h1>
 <h3 align="center">Cybersecurity & Web Development Enthusiast</h3>
@@ -53,4 +53,4 @@ As a Computer Engineering student at the University of Mumbai, I'm passionate ab
 ---
 
 <!-- Bottom wave -->
-<img src="https://github.com/rafikshah/rafikshah/blob/main/wave.svg" alt="wave" style="width: 100%;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
