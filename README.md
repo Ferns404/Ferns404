@@ -46,9 +46,10 @@ I'm a Computer Engineering student at the University of Mumbai with a strong foc
 
 ### 📈 GitHub Activity
 
-![GitHub Activity Graph]<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ferns404&custom_title=Ferns404's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ferns404&custom_title=Ferns404's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferns404&layout=compact&theme=default)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferns404&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
 
 ---
 
