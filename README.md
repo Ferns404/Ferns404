@@ -5,7 +5,7 @@
 <h3 align="center">Cybersecurity & Web Development Enthusiast</h3>
 
 <p align="left">
-As a Computer Engineering student at the University of Mumbai, I'm passionate about building secure and scalable digital solutions. My interests span full-stack web development and cybersecurity — from crafting responsive user interfaces to exploring penetration testing tools. I enjoy contributing to open-source projects and sharing my learning journey through hands-on projects hosted on GitHub.
+I'm a Computer Engineering student at the University of Mumbai with a strong focus on cybersecurity and web development. I’m deeply interested in ethical hacking, penetration testing, and building secure digital environments, while also enjoying the process of developing responsive and efficient web applications. My goal is to pursue a career where I can combine technical skills with problem-solving to create impactful and secure technology solutions. I am constantly learning, experimenting with tools and frameworks, and striving to stay updated with evolving industry standards.
 </p>
 
 ---
@@ -46,7 +46,7 @@ As a Computer Engineering student at the University of Mumbai, I'm passionate ab
 
 ### 📈 GitHub Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ferns404&theme=default)
+![GitHub Activity Graph]<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ferns404&custom_title=Ferns404's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferns404&layout=compact&theme=default)
 
