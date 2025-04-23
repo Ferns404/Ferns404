@@ -1,11 +1,11 @@
 <!-- Top wave -->
-<img src="https://raw.githubusercontent.com/rafikshah/rafikshah/main/wave.svg" alt="wave" style="width: 100%;" />
+<img src="https://github.com/rafikshah/rafikshah/blob/main/wave.svg" alt="wave" style="width: 100%;" />
 
 <h1 align="center">Hi 👋, I'm Florelle Fernandes</h1>
-<h3 align="center">cookie</h3>
+<h3 align="center">Cybersecurity & Web Development Enthusiast</h3>
 
 <p align="left">
-cookie
+As a Computer Engineering student at the University of Mumbai, I'm passionate about building secure and scalable digital solutions. My interests span full-stack web development and cybersecurity — from crafting responsive user interfaces to exploring penetration testing tools. I enjoy contributing to open-source projects and sharing my learning journey through hands-on projects hosted on GitHub.
 </p>
 
 ---
@@ -44,12 +44,13 @@ cookie
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ferns404&theme=default)  
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ferns404&theme=default)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferns404&layout=compact&theme=default)
 
 ---
 
 <!-- Bottom wave -->
-<img src="https://raw.githubusercontent.com/rafikshah/rafikshah/main/wave.svg" alt="wave" style="width: 100%;" />
+<img src="https://github.com/rafikshah/rafikshah/blob/main/wave.svg" alt="wave" style="width: 100%;" />
