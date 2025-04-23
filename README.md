@@ -5,7 +5,7 @@
 <h3 align="center">Cybersecurity & Web Development Enthusiast</h3>
 
 <p align="left">
-I'm a Computer Engineering student at the University of Mumbai with a strong focus on cybersecurity and web development. I’m deeply interested in ethical hacking, penetration testing, and building secure digital environments, while also enjoying the process of developing responsive and efficient web applications. My goal is to pursue a career where I can combine technical skills with problem-solving to create impactful and secure technology solutions. I am constantly learning, experimenting with tools and frameworks, and striving to stay updated with evolving industry standards.
+I'm a Computer Engineering student with a strong focus on cybersecurity and web development. I’m deeply interested in ethical hacking, penetration testing, and building secure digital environments, while also enjoying the process of developing responsive and efficient web applications. My goal is to pursue a career where I can combine technical skills with problem-solving to create impactful and secure technology solutions. I am constantly learning, experimenting with tools and frameworks, and striving to stay updated with evolving industry standards.
 </p>
 
 ---
