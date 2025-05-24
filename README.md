@@ -21,6 +21,7 @@ I'm a Computer Engineering student with a strong focus on cybersecurity and web 
 #### **Cybersecurity**
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004370?style=flat-square&logo=gnu-bash&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-000000?style=flat-square&logo=nikto&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6600?style=flat-square&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat-square&logoColor=white)
@@ -37,7 +38,7 @@ I'm a Computer Engineering student with a strong focus on cybersecurity and web 
 #### **Frameworks & Tools**
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
@@ -51,6 +52,12 @@ I'm a Computer Engineering student with a strong focus on cybersecurity and web 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferns404&layout=compact&theme=default)
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ferns404&theme=highcontrast&hide_border=true" alt="Repos Per Language">
 
+
+![](https://github-readme-stats.vercel.app/api?username=Ferns404&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ferns404&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferns404&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+---
+[![](https://visitcount.itsvg.in/api?id=Ferns404&icon=5&color=0)](https://visitcount.itsvg.in)
 ---
 
 <!-- Bottom wave -->
