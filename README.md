@@ -47,16 +47,11 @@ I'm a Computer Engineering student with a strong focus on cybersecurity and web 
 
 ### 📈 GitHub Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ferns404&custom_title=Ferns404's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferns404&layout=compact&theme=default)
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ferns404&theme=highcontrast&hide_border=true" alt="Repos Per Language">
-
-
 ![](https://github-readme-stats.vercel.app/api?username=Ferns404&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ferns404&theme=github_dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferns404&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
----
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferns404&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br/>
+
+![](https://visitcount.itsvg.in/api?id=Ferns404&icon=1&color=0)](https://visitcount.itsvg.in)<br/>
 [![](https://visitcount.itsvg.in/api?id=Ferns404&icon=5&color=0)](https://visitcount.itsvg.in)
 ---
 
