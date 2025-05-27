@@ -51,7 +51,7 @@ I'm a Computer Engineering student with a strong focus on cybersecurity and web 
 ![](https://nirzak-streak-stats.vercel.app/?user=Ferns404&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferns404&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br/>
 
-[![Visitor Count](https://img.shields.io/badge/dynamic/json?label=Visitors&color=000000&logo=github&logoColor=white&style=for-the-badge&query=value&url=https://countapi.xyz/hit/Ferns404/profile)](https://countapi.xyz)
+[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Ferns404&left_color=000000&right_color=000000&left_text=Visitors&logo=github&logoColor=white&style=for-the-badge)](https://github.com/Ferns404)
 
 ---
 
